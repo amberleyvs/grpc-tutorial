@@ -5,7 +5,7 @@ edition = "2021"
 
 [[bin]]
 name = "grpc-server"
-path = "src/grpc_servers.rs"
+path = "src/grpc_server.rs"
 
 [[bin]]
 name = "grpc-client"
